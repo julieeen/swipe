@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Feb 28 10:52:43 2017
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 Patches 2.01we SJ Web Edition
+Revision Name : dram_controller
+Top-level Entity Name : toplevel
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 266 / 22,320 ( 1 % )
+    Total combinational functions : 216 / 22,320 ( < 1 % )
+    Dedicated logic registers : 180 / 22,320 ( < 1 % )
+Total registers : 180
+Total pins : 54 / 154 ( 35 % )
+Total virtual pins : 0
+Total memory bits : 0 / 608,256 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 2 / 4 ( 50 % )
